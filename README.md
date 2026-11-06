@@ -1,4 +1,6 @@
-# TI2006B persistent project repository
+# TI2006B - 
+## Student: Servio Palacios
+## Date: 2026-11-06
 
 License: Original educational content in this example repository is licensed
 under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
